@@ -2,5 +2,5 @@
 Gradio_app_for_ICP_wave_detection
 # Download the illustration file to use the Gradio application for ICP wave detection as Gradio_app_instruction.pdf 
 ![Alt text](./Python-FFD43B.svg)
-<img src="./googlecolab1.svg">
-<img src="./psu1.jpg">
+<img src="./googlecolab.svg">
+<img src="./psu.jpg">
